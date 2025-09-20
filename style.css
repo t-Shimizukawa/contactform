@@ -1,0 +1,28 @@
+body{
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+    width: 30%;
+   
+}
+
+h1{
+    border-left: 5px solid red;
+    background-color: #F1F1F1;
+}
+
+form{
+
+    background-color: #FBFBFB;
+    border: #F1F1F1;
+    border-radius: 10px;
+    border:3px lightgray solid;
+}
+
+div{
+    margin: 1rem;
+}
+
+.button{
+    color: white;
+    background-color: lightgray;
+    border-color: lightgray;
+}
